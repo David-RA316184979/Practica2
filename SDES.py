@@ -1,5 +1,5 @@
 import fileinput
-#cambio xd
+
 # s-box s0 (texto en matriz)
 S0 = [['01','00','11','10'],
       ['11','10','01','00'],
