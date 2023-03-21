@@ -1,3 +1,4 @@
+
 import fileinput
 
 # s-box s0 (texto en matriz)
@@ -111,5 +112,5 @@ def main():
     result = sdes(key, text, mode)
     print(result)
 
-if __name__ == "__main__":#
+if __name__ == "__main__":
     main() 
